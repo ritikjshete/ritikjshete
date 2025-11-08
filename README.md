@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- BANNER -->
 <p align="center">
-  <img src="https://github.com/Suchith-K-git/Suchith-K-git/blob/main/Banner.jpeg" alt="Banner" />
+  <img src=" alt="Banner" />
 </p>
 
 <h1 align="center">
