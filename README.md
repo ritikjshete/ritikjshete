@@ -1,129 +1,94 @@
-## Hi there 👋
-<!-- BANNER -->
-<p align="center">
-  <img src=" alt="Banner" />
-</p>
+<div align="center">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Suchith+K+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Enthusiast+%E2%9C%A8;Automating+Infra+One+Pipeline+at+a+Time+%F0%9F%9A%80" />
-</h1>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ritik%20J%20Shete&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%7C%20DevOps%20Enthusiast&descAlignY=51&descAlign=50)
 
-<p align="center">
-  <img src="https://github.com/ritikjshete/ritikjshete/blob/main/banner.png&label=Profile+Views&color=0e7c3f&style=for-the-badge" alt="Ritik J Shete" />
-</p>
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=800&lines=Building%20the%20Future%2C%20One%20Line%20of%20Code%20at%20a%20Time" alt="Typing SVG" />
+</h3>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ritikjshete)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ritikjshete07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ritikjshete/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ritikjshete/)
 
-## 🌟 About Me
-
-💻 **Associate Software Engineer** | ☁️ **Cloud & DevOps Enthusiast**  
-⚙️ Passionate about building efficient pipelines, automating infrastructure, and deploying scalable cloud apps.
-
-🧠 I’m always learning and improving my skills in:
-- 🔧 **Infrastructure as Code (IaC)**
-- 🚀 **CI/CD Automation**
-- 🐳 **Containerization & Orchestration**
-- ☁️ **Cloud Computing (AWS)**
-
-📫 Reach me at: **suchith004@gmail.com**  
-🎯 Fun Fact: I turn boring scripts into powerful automation tools 😎
+</div>
 
 ---
 
-## 🔗 Let's Connect
+## About Me
 
-<p align="center">
-  <a href="mailto:suchith004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/suchith-k-0262a5252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Suchith-K-git">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_suchith_k/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+Passionate developer who loves creating innovative solutions and learning new technologies.
+
+ **Fun Fact:** I debug code in my sleep! 
 
 ---
 
-## ⚙️ Tech Stack & Tools
+##  Tech Stack
 
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" alt="Kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" alt="Terraform" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50" alt="Ansible" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" alt="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="50" alt="SonarQube" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" alt="Grafana" />
-</p>
+###  Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=aws&logoColor=white&color=6366F1)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=6366F1)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6366F1)
+![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=6366F1)
 
-### 💻 Languages & Scripting
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
-</p>
+###  Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=10B981)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=10B981)
 
-### 🐧 OS & VCS
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-</p>
+###  Tools & Technologies
+![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F59E0B)
+![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=F59E0B)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=F59E0B)
+![VS Code](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=F59E0B)
 
 ---
 
-## 📊 GitHub Stats
+##  What I'm Interested In
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suchith-K-git&show_icons=true&theme=tokyonight&count_private=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchith-K-git&layout=compact&theme=tokyonight" />
-</p>
+- 🌟 Open Source
+- 🌟 Cloud Architecture
+- 🌟 DevOps
+- 🌟 AI/ML
 
 ---
 
-## 🔥 My DevOps Philosophy
+##  GitHub Analytics
 
-🛠️ **Automate Everything**: Replace repetition with automation  
-🚀 **Build to Scale**: Code and infra that grows with demand  
-👥 **Collaborate Continuously**: Teamwork fuels DevOps  
-📈 **Measure & Optimize**: Metrics make progress visible
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritikjshete&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjshete&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+</div>
 
----
-
-## ✨ Highlights
-
-- ✅ Automated deployment pipelines using Jenkins & GitHub Actions  
-- ✅ Managed container orchestration using Kubernetes  
-- ✅ Built cloud infrastructure using Terraform + AWS  
-- ✅ Developed automation playbooks with Ansible  
-- ✅ Hands-on experience with Java, Python, and scripting
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikjshete&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=10B981" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=🚀%20Let’s%20Build%20and%20Scale%20Together!&fontSize=24&fontAlignY=40" />
-</p>
-<!--
-**ritikjshete/ritikjshete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  GitHub Trophies
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ritikjshete&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+###  Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###  Vibing to
+[![Spotify](https://novatorem-gamma-indol.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+</div>
+
+---
+
+<div align="center">
+  
+**💡 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
