@@ -31,6 +31,11 @@ Passionate developer who loves creating innovative solutions and learning new te
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6366F1)
 ![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&logo=terraform&logoColor=white&color=6366F1)
 
+###  Security & Networking
+![Nginx](https://img.shields.io/badge/Nginx-informational?style=flat&logo=nginx&logoColor=white&color=6366F1)
+![IAM (AWS)](https://img.shields.io/badge/IAM_(AWS)-informational?style=flat&logo=amazonaws&logoColor=white&color=6366F1)
+![VPC](https://img.shields.io/badge/VPC-informational?style=flat&logo=amazonaws&logoColor=white&color=6366F1)
+
 ###  Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=10B981)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=10B981)
