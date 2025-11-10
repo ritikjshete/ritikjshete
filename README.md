@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suchith-K-git&label=Profile+Views&color=0e7c3f&style=for-the-badge" alt="Suchith-K-git" />
+  <img src="https://github.com/ritikjshete/ritikjshete/blob/main/banner.png&label=Profile+Views&color=0e7c3f&style=for-the-badge" alt="Ritik J Shete" />
 </p>
 
 ---
